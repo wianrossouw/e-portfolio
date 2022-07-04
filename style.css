@@ -666,6 +666,7 @@ footer {
 .shape--8 {
   top: 80vh;
   left: 80vw;
+  display
 }
 
 /* ADDED AFTER TUTORIAL */
@@ -708,6 +709,56 @@ footer {
   .modal__half {
     width: 100%;
   }
+  .shape {
+    position: fixed;
+    display:none;
+  }
+  .shape--0 {
+    top: 15vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--1 {
+    top: 15vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--2 {
+    top: 15vh;
+    left: 80vw;
+    display:none;
+  }
+  .shape--3 {
+    top: 50vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--4 {
+    top: 50vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--5 {
+    top: 50vh;
+    left: 80vw;
+    display:none;
+  }
+  .shape--6 {
+    top: 80vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--7 {
+    top: 80vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--8 {
+    top: 80vh;
+    left: 80vw;
+    display:none;
+  }
+
 }
 
 /* Small phones */
@@ -736,4 +787,55 @@ footer {
   .modal__half {
     padding: 40px;
   }
+
+  .shape {
+    position: fixed;
+    display:none;
+  }
+  .shape--0 {
+    top: 15vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--1 {
+    top: 15vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--2 {
+    top: 15vh;
+    left: 80vw;
+    display:none;
+  }
+  .shape--3 {
+    top: 50vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--4 {
+    top: 50vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--5 {
+    top: 50vh;
+    left: 80vw;
+    display:none;
+  }
+  .shape--6 {
+    top: 80vh;
+    left: 5vw;
+    display:none;
+  }
+  .shape--7 {
+    top: 80vh;
+    left: 50vw;
+    display:none;
+  }
+  .shape--8 {
+    top: 80vh;
+    left: 80vw;
+    display:none;
+  }
+
 }
